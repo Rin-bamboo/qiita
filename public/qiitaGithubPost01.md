@@ -1,11 +1,11 @@
 ---
 title: Qiitをgit管理するようにしてみた
 tags:
-  - 'Qita'
-  - 'GitHub'
+  - GitHub
+  - Qita
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-03-31T23:03:33+09:00'
+id: b2723e0148be9cee15cf
 organization_url_name: null
 slide: false
 ignorePublish: false
