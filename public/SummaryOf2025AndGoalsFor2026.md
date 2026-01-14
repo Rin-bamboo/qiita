@@ -1,11 +1,11 @@
 ---
 title: 2025年のまとめと2026年の目標
 tags:
-  - '目標'
-  - '2026年'
+  - 目標
+  - 2026年
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-14T11:25:38+09:00'
+id: 3e2f2a9c8ebdd77f4d73
 organization_url_name: null
 slide: false
 ignorePublish: false
