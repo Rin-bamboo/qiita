@@ -1,12 +1,12 @@
 ---
 title: VPN接続中にVisualStudioのNuGet復元が失敗した話
 tags:
-  - 'VPN'
-  - 'VisualStudio2026'
-  - 'nuget'
+  - VPN
+  - nuget
+  - VisualStudio2026
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-05T09:39:39+09:00'
+id: 6c49828fe6b181d27851
 organization_url_name: null
 slide: false
 ignorePublish: false
